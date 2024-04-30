@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi there 👋 my name is Danil</h1>
+  <h1>Hi there 👋</h1>
 </div>
 
 ###
@@ -18,6 +18,8 @@
 
 <h3 align="left">About me:</h3>
 
+<p>Name: Serebryakov Danil Sergeevich</p>
+<p>Age: 20</p>
 <p align="left">
 I am a beginner front-end developer, my journey began in early 2023. Then I did not yet understand what awaited me on this path and I simply did the tasks that were given in college. I am also doing an internship at <a href="https://tltpro.org/" alt="TLT PRO">TLT PRO</a>.
 </p>
