@@ -1,16 +1,15 @@
 <div align="center">
-  <h1>Hi there 👋</h1>
-  <p>My name is Danil</p>
+  <h1>Hi there 👋 my name is Danil </h1>
 </div>
 
 ###
 <div align="center">
   <h3 align="left">Contact me:</h3>
   <a href="mailto:mc.mam1nmodnik@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/9554/9554729.png" alt="mail"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/9554/9554729.png" alt="mail" width="20" height="20"/>
   </a>
   <a href="https://t.me/mam1nmodnik">
-    <img src=" https://cdn-icons-png.flaticon.com/512/2111/2111644.png" alt="telegram"/> 
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111644.png" alt="telegram" width="20" height="20"/> 
   </a>
 </div>
 
