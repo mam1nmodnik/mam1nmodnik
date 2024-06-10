@@ -41,7 +41,9 @@ I am a beginner front-end developer, my journey began in early 2023. Then I did 
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Typescript.svg/64px-Typescript.svg.png" height="40" alt="typescript"  />
   <img width="12" />
-  <img src="https://avatars.githubusercontent.com/u/79226042?s=200&v=4" height="40" alt="solid.js"  />
+  <a href="https://www.solidjs.com/"/>
+    <img src="https://avatars.githubusercontent.com/u/79226042?s=200&v=4" height="40" alt="solid.js"  />
+  <a/>
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="wordpress"  />
   <img width="12" />
