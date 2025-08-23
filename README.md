@@ -24,6 +24,7 @@
 I am a beginner front-end developer, my journey began in early 2023. Then I did not yet understand what awaited me on this path and I simply did the tasks that were given in college. I am also doing an internship at <a href="https://tltpro.org/" alt="TLT PRO">TLT PRO</a>.
 </p>
 <p align="left"> Fortunately or unfortunately, I did not take a single development course, but simply used YouTube)</p>
+<p align="left"> I served in the army from 24 to 25. Now I'm trying to catch up.</p>
 
 ###
 
