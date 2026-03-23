@@ -1,62 +1,46 @@
 <div align="center">
-  <h1>Hi there 👋</h1>
+  <h1>Hi there, I'm Danil 👋</h1>
+  <p>Beginner Front-End Developer | Self-taught | Open to growth</p>
 </div>
-
-###
 
 <div align="center">
-  <a href="mailto:mc.mam1nmodnik@gmail.com" width="35">
-    <img src="https://img.shields.io/badge/gmail-gray" alt="mail" height="25" />
+  <a href="mailto:mc.mam1nmodnik@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-gray?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
   </a>
-  <img width="20" />
   <a href="https://t.me/mam1nmodnik">
-    <img src="https://img.shields.io/badge/telegram-gray" alt="telegram"  height="25" /> 
+    <img src="https://img.shields.io/badge/Telegram-gray?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram" />
   </a>
 </div>
 
-###
+## About Me
 
-<h3 align="left">About me:</h3>
+My name is Danil Serebryakov, I’m 21 years old and I’m a beginner front-end developer.
 
-<p>Name: Serebryakov Danil Sergeevich</p>
-<p>Age: 21</p>
-<p align="left">
-I am a beginner front-end developer, my journey began in early 2023. Then I did not yet understand what awaited me on this path and I simply did the tasks that were given in college. I am also doing an internship at <a href="https://tltpro.org/" alt="TLT PRO">TLT PRO</a>.
+I started my journey in early 2023. At first, I was simply completing tasks from college, but over time I became genuinely interested in web development and decided to grow in this field seriously.
+
+I’m currently doing an internship at [TLT PRO](https://tltpro.org/).
+
+I’m a self-taught developer. I didn’t take paid courses and learned mostly through practice, documentation, and YouTube.
+
+I served in the army from 2024 to 2025, and now I’m actively catching up, improving my skills, and building new projects.
+
+## Portfolio
+
+[Visit my portfolio](https://portfolio-sigma-nine-ohegwto5z4.vercel.app/)
+
+## Technologies
+
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,wordpress,php,prisma&perline=5"
+    alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS, WordPress, PHP and Prisma"
+  />
 </p>
-<p align="left"> Fortunately or unfortunately, I did not take a single development course, but simply used YouTube)</p>
-<p align="left"> I served in the army from 24 to 25. Now I'm trying to catch up.</p>
-###
 
-<h3 align="left">My portfolio</h3>
-<a href="https://portfolio1-c3er.onrender.com" align="left">Click</a>
-
-###
-
-<h3 align="left">Technologies:</h3>
-
-###
-
-<div align="left">
- 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript"  />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Typescript.svg/64px-Typescript.svg.png" height="40" alt="typescript"  />
-  <img width="12" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="wordpress"  />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/149px-PHP-logo.svg.png" height="40" width="65" alt="php"  />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/PhpMyAdmin_logo.png/136px-PhpMyAdmin_logo.png" height="40"  alt="phpmyadmin"  />
-  <img width="12" />
-  <img src="https://in-digo.ru/assets/img/icons/react.png" height="40"  alt="react"  />
-  <img width="12" />
-
- 
- 
-</div>
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Ant%20Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white" alt="Ant Design" />
+  <img src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" alt="React Query" />
+  <img src="https://img.shields.io/badge/NextAuth-000000?style=for-the-badge&logo=nextauth&logoColor=white" alt="NextAuth" />
+  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" alt="Cloudinary" />
+  <img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white" alt="phpMyAdmin" />
+</p>
