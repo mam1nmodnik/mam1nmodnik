@@ -14,7 +14,7 @@
 
 ## About Me
 
-My name is Danil Serebryakov, I’m 21 years old and I’m a beginner front-end developer.
+My name is Danil Serebryakov, I’m 22 years old and I’m a beginner front-end developer.
 
 I started my journey in early 2023. At first, I was simply completing tasks from college, but over time I became genuinely interested in web development and decided to grow in this field seriously.
 
