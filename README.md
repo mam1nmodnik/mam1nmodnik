@@ -1,46 +1,84 @@
-<div align="center">
-  <h1>Hi there, I'm Danil 👋</h1>
-  <p>Beginner Front-End Developer | Self-taught | Open to growth</p>
-</div>
+👨‍💻 Danil Serebryakov
 
-<div align="center">
-  <a href="mailto:mc.mam1nmodnik@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-gray?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
-  </a>
-  <a href="https://t.me/mam1nmodnik">
-    <img src="https://img.shields.io/badge/Telegram-gray?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram" />
-  </a>
-</div>
+Frontend Developer · React · Next.js · TypeScript
 
-## About Me
+Building interfaces. Connecting systems. Solving problems.
 
-My name is Danil Serebryakov, I’m 22 years old and I’m a beginner front-end developer.
+I’m a Frontend Developer focused on creating modern, scalable web applications. Experienced with React, Next.js, TypeScript, REST APIs, and backend integration.
 
-I started my journey in early 2023. At first, I was simply completing tasks from college, but over time I became genuinely interested in web development and decided to grow in this field seriously.
+I enjoy working on complex interfaces, application architecture, and turning ideas into functional products.
 
-I’m currently doing an internship at [TLT PRO](https://tltpro.org/).
+⸻
 
-I’m a self-taught developer. I didn’t take paid courses and learned mostly through practice, documentation, and YouTube.
+◈ TECH STACK
 
-I served in the army from 2024 to 2025, and now I’m actively catching up, improving my skills, and building new projects.
+Frontend
 
-## Portfolio
-
-[Visit my portfolio](https://portfolio-sigma-nine-ohegwto5z4.vercel.app/)
-
-## Technologies
-
-<p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,wordpress,php,prisma&perline=5"
-    alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS, WordPress, PHP and Prisma"
-  />
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
 </p>
 
+UI & Data
+
+<p>
+  <img src="https://img.shields.io/badge/Ant%20Design-0170FE?style=flat-square&logo=antdesign&logoColor=white" />
+  <img src="https://img.shields.io/badge/TanStack%20Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white" />
+  <img src="https://img.shields.io/badge/Auth.js-black?style=flat-square" />
+</p>
+
+Backend & Infrastructure
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,prisma,supabase,docker" />
+</p>
+
+Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,figma,storybook" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+</p>
+
+⸻
+
+◈ WHAT I DO
+
+* Develop web applications with React & Next.js.
+* Build reusable UI components and application architecture.
+* Integrate REST APIs and manage server state.
+* Implement authentication and authorization.
+* Work with Node.js, Express, PostgreSQL & Prisma.
+* Write and maintain end-to-end tests.
+
+⸻
+
+◈ FEATURED PROJECTS
+
+EchoSocial
+
+Social platform built with Next.js, TypeScript, Express, Prisma and PostgreSQL.
+
+Portfolio
+
+Personal portfolio showcasing my work and development experience.
+
+⸻
+
+◈ CONTACT
+
+<p>
+  <a href="mailto:mc.mam1nmodnik@gmail.com">
+    <img src="https://img.shields.io/badge/Email-181818?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://t.me/mam1nmodnik">
+    <img src="https://img.shields.io/badge/Telegram-181818?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+</p>
+
+⸻
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Ant%20Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white" alt="Ant Design" />
-  <img src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" alt="React Query" />
-  <img src="https://img.shields.io/badge/NextAuth-000000?style=for-the-badge&logo=nextauth&logoColor=white" alt="NextAuth" />
-  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" alt="Cloudinary" />
-  <img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white" alt="phpMyAdmin" />
+  <sub>Building things that work. Learning things that matter.</sub>
 </p>
